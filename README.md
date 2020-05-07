@@ -1,5 +1,5 @@
-Estimating planetary envelope fractions using MESA simulations
-===============================================================
+Estimating planetary envelope fractions using MESA simulation results
+======================================================================
 
 This respository contains supplementary material to the paper Millholland, S., Petigura, K., \& Batygin, K. 2020, ApJ, submitted, <i> Tidal Inflation Reconciles Low-Density Sub-Saturns with Core Accretion. </i> (It is also relevant to the methods of the paper Millholland, S. 2019, ApJ, 886, 72, <i> Tidally-Induced Radius Inflation of Sub-Neptunes. </i>)
 

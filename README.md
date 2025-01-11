@@ -7,4 +7,4 @@ The IPython notebook entitled "Parameter_estimation_from_MESA_sims_demo.ipynb" c
 
 In order to constrain the envelope mass fraction of an observed planet, we construct an interpolation to the MESA simulation results and employ Markov Chain Monte Carlo methods using the affine invariant ensemble sampler, emcee (Foreman-Mackey et al. 2013). In doing this, one can choose to include or ignore the effects of tidal heating. We present both cases for our example planet, K2-19 b, and compare them. 
 
-If you have any questions, please don't hesitate to email me at sarah.millholland@princeton.edu.
+If you have any questions, please don't hesitate to email me at sarah.millholland@mit.edu.
